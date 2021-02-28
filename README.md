@@ -1,0 +1,2 @@
+# Detect-fake-social-media-profiles
+Here I build and train a simple artificial neural network model to detect spam/fake Instagram accounts. Fake and spam accounts are a major problem in social media. Many social media influencers use fake Instagram accounts to create an illusion of having so many social media followers. Fake accounts can be used to impersonate or catfish other people and be used to sell fake services/products.
